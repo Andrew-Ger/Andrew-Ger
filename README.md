@@ -1,6 +1,8 @@
 Student: National Aerospace University 
 Intresting people, who like science
 
+![](.\hello-02.jpg)
+
 Follow me:
 
 [![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrey_golden/)
