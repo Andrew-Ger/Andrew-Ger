@@ -1,7 +1,7 @@
 Student: National Aerospace University 
 Intresting people, who like science
 
-![](.\hello-02.jpg)
+
 ![](.\new.jpg)
 
 Follow me:
